@@ -19,8 +19,6 @@ UPDATE_INTERVAL = 60
 
 CREDITS = [
     {"Created by": "J-Lindvig (https://github.com/J-Lindvig)"},
-    {
-        "Original idea": "Martin Larsen (https://www.facebook.com/martin.hyldgaard.larsen)"
-    },
-    {"Data provided by": "Astma-Allergi Danmark (https://www.astma-allergi.dk)"},
+    {"Original idea": "Martin Larsen (https://www.facebook.com/martin.hyldgaard.larsen)"},
+    {"Data provided by": "Astma-Allergi Danmark (https://www.astma-allergi.dk)"}
 ]
